@@ -1,0 +1,19 @@
+# Fireball Physics
+# Author: sieadev
+
+# ----------------------Text Settings----------------------
+coolDownMessage: "§cFireballs have a 0.5 second cooldown."
+
+# --------------------Fireball Settings--------------------
+# Other
+coolDown: 500 #ms
+
+# Flight
+speed: 1.2
+
+# Impact
+delay: 1 #Ticks
+radius: 4
+strength: 3
+multiplicatorVertical: 1.5
+multiplicatorHorizontal: 0.25

@@ -1,0 +1,5 @@
+name: FireBallPhysics
+version: '${project.version}'
+main: siea.dev.fireballphysics.FireBallPhysics
+load: STARTUP
+authors: [siea]
